@@ -1,8 +1,5 @@
-/* I chose these colors
+/* I went with an extremely simple design because I really like simplistic designs
 */
-
-
-
 
 
 body {
@@ -18,4 +15,8 @@ h4 {font-style: comic;border-bottom: 3px solid #ff0000; font-size: x-large; }
     
     ul {
     list-style-type: square;}
+header {font-style: bold; font-size: large; font-weight: bold;}
+
+h5 {font-size: x-large;}
+
     
